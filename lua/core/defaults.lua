@@ -28,6 +28,9 @@ local config = {
     enable_operator_preset = false,
   }
 
+  dashboard = {
+    extra = {}
+  }
 }
 
 return config
