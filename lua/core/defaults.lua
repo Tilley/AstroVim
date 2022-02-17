@@ -26,7 +26,7 @@ local config = {
   which_key = {
     ignore_missing = true,
     enable_operator_preset = false,
-  }
+  },
 
   dashboard = {
     extra = {}
